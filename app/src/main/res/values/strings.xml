@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListVieww</string>
+
+    <string-array name="array_names">
+        <item>Safeer</item>
+        <item>Afridi</item>
+        <item>Khan</item>
+        <item>Ali</item>
+        <item>Salar</item>
+    </string-array>
+
+</resources>
